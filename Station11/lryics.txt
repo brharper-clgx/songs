@@ -52,7 +52,7 @@ And goes by in a blur
 
 [Chorus]
 Over the garden wall
-Follow the wolves               | Into the woods                  
+Follow the wolves                
 Poor Captain Lonegan
 All alone again
 
@@ -64,6 +64,6 @@ Better get it right
 
 [Chorus]
 Over the garden wall
-Into the woods
+Follow the wolves
 Poor Captain Lonegan
 All alone again
